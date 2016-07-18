@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/thepiercingarrow
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thepiercingarrow.github.io
+  * I am thepiercingarrow (https://keybase.io/thepiercingarrow) on keybase.
+  * I have a public key with fingerprint FB9A 14B6 DC04 C367 0A33  073C F4FC 478E 057C 9F78
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019c882cd5dfeeea12c29af906f2e963e36b35819a01ae0f15b3810843f6f83ad30a",
+            "fingerprint": "fb9a14b6dc04c3670a33073cf4fc478e057c9f78",
+            "host": "keybase.io",
+            "key_id": "f4fc478e057c9f78",
+            "kid": "01019c882cd5dfeeea12c29af906f2e963e36b35819a01ae0f15b3810843f6f83ad30a",
+            "uid": "20f540e87c4f9374c0532c3c754ba619",
+            "username": "thepiercingarrow"
+        },
+        "service": {
+            "hostname": "thepiercingarrow.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468841918,
+    "expire_in": 157680000,
+    "prev": "c38c86bc5876fef5ce39fff973b8e69697e14cf83426fea7e0b207fe9895195f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJbSBRRGF7bLqYJKxGGRQ9jD/tgembOXM7ZMEO6gFCSUkkk28zZc3an
+1Z1pZlZXI40y6aGHxIcisqygLLKgwC6WmhREUUEXyYqCoKynIqIiyjpj9VZvnZfD
+Of/3ff/3/fzX84KBnKyqsQez1cKKuqzb1/rSgfV7hga3CoYVaxYiW4UknbxofYy6
+XjRpxoSIAEQgYoKQRGJKjFFKdVEiEtYZBiqTKFYhhaoBFSRiHYg6BUxUDIhEgGTI
+VIagHoNAF4oFZqbi1LEdM+VxWWZgXZQNNUaATKCqAR1CoEHCZEZkDVGgaAQzDXFi
+wnJ9Bjdn6C4tMS3+xx/RSXt/wf9n3+lJOQkwRQYUaURmGGoyAQqUCCSaIhu6KmIf
+6FInpTdQjvYS1DapQ3hk3XGsJmFbscCrjSah/oD9RP9AlsRNL5E2fqW0HcuziFXP
+cQnPs92Ir+M12z6xiRrR35JRw0zFuABnNFLHNa2UEBE5knim30OUVYRkEYuoWKAZ
+23Ro1PQRiqYiwI/fhzZySQIRQapBFKSpjDKFUIgZY1iDBqIqVrFGRZnw0cgSr+sa
+BYYENEYxwoqIFSb4IbekLCEic5t6nEu6Zjyle2mHCttGhjdODWTlBKZPm+JvXSBn
+ZujPLhrWjB9b2K6VM83wncE1YutpZ9O9juqScv3K5vbniypCS8D9u8GyQz1PLyc+
+jtXN+xHuD3UH175RXtaWmwuD8NyB2jf47uFyaeRBe2f5h5rHpdtXrKoQvq9siRZE
++za8/1TYOlSa3+F+KcoZV7+V9QaCx+cvBsniWd2XeqrWLWjbO3fs2Ds7VNN7/vPL
+wt66ws6WZFYo81zJZF9Aozfvbdi/M13U3B+8+nifs7ul+gxqs48+GT1ZOW/wRE39
+nLYbDY+Wn3vbtTTv1uqaZ1KmrKHTqR7Y/SKZ+8q9dTHFDj6cOPpq4FT28bO5QkFl
+5bJ2a8eLJ6+H01/HjzSHs4ca7K6l+eNFE+GfxjpFVQ==
+=JZA0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thepiercingarrow
+
+==================================================================
