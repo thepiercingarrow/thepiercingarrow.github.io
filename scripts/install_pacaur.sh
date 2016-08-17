@@ -1,5 +1,5 @@
 #!/bin/bash
-pacman -S expac yajl git --noconfirm
+pacman -S expac yajl git --noconfirm --needed
 mkdir pacaur/
 cd pacaur/
 curl -o PKGBUILD https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=cower
