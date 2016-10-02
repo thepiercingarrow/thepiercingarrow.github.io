@@ -79,7 +79,6 @@ Follow the instructions in the `tzselect` prompt to pick your timezone. Then, ad
 ###### Install grub (bootloader)
 ```
 [arch] pacman -S intel-ucode grub
-[arch] bootctl install
 [arch] grub-install /dev/sda
 [arch] grub-mkconfig -o /boot/grub/grub.cfg
 ```
