@@ -1,0 +1,6 @@
+<public:attach event="onload" for="window" onevent="main()" />
+<script language="javascript">
+    function main() {
+        alert("Mwahaha injections");
+    }
+</script>
